@@ -43,8 +43,7 @@ The goal of this project is to automate the end-to-end deployment process of a p
 ```
 
 🖼️ **Architecture Diagram:**
-![Architecture Diagram](screenshots/architecture.png)
-
+![Architecture Diagram](/images/Architecture%20Diagram.png)
 ---
 
 ## 🔧 Setup & Configuration
@@ -65,7 +64,7 @@ The goal of this project is to automate the end-to-end deployment process of a p
   ```
 
 🖼️ **EC2 Setup Screenshot:**
-![EC2 Instance Launch](screenshots/ec2-launch.png)
+![EC2 Instance Launch](/images/Screenshot%20(862).png)
 
 ---
 
@@ -90,7 +89,7 @@ The goal of this project is to automate the end-to-end deployment process of a p
   `http://<EC2-Public-IP>:8080`
 
 🖼️ **Jenkins Dashboard Screenshot:**
-![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+![Jenkins Dashboard](/images/Screenshot%20(865).png)
 
 ---
 
@@ -105,7 +104,9 @@ The goal of this project is to automate the end-to-end deployment process of a p
   * Add a **Jenkinsfile** in your GitHub repository (sample below)
 
 🖼️ **Jenkins Job Configuration Screenshot:**
-![Jenkins Job Configuration](screenshots/jenkins-job.png)
+![Jenkins Job Configuration](/images/Screenshot%20(866).png)
+![](/images/Screenshot%20(867).png)
+![](/images/Screenshot%20(868).png)
 
 ---
 
@@ -140,7 +141,8 @@ pipeline {
 ```
 
 🖼️ **Jenkins Build Console Screenshot:**
-![Build Console](screenshots/jenkins-build.png)
+![Build Console](/images/Screenshot%20(869).png)
+
 
 ---
 
@@ -157,7 +159,7 @@ pipeline {
 * Now every time you push code → Jenkins automatically deploys the updated site 🎉
 
 🖼️ **GitHub Webhook Setup Screenshot:**
-![GitHub Webhook](screenshots/github-webhook.png)
+![GitHub Webhook](/images/Screenshot%20(878).png)
 
 ---
 
@@ -173,7 +175,7 @@ pipeline {
 | 6️⃣  | Portfolio site updates automatically      |
 
 🖼️ **Pipeline Run Screenshot:**
-![Pipeline Run](screenshots/pipeline-run.png)
+![Pipeline Run](/images/Screenshot%20(871).png)
 
 ---
 
@@ -186,15 +188,24 @@ http://<EC2-Public-IP>:5000
 ```
 
 🖼️ **Live Website Screenshot:**
-![Live Portfolio Website](screenshots/live-site.png)
+![Live Portfolio Website](/images/Screenshot%20(872).png)
+![](/images/Screenshot%20(873).png)
+![](/images/Screenshot%20(874).png)
+![](/images/Screenshot%20(875).png)
+![](/images/Screenshot%20(876).png)
+![](/images/Screenshot%20(877).png)
 
 ---
 
 ## 🧾 Author
 
 **Vivek Chopade**
-📎 [GitHub](https://github.com/chopadevivek07)
-💼 [LinkedIn](https://www.linkedin.com/in/vivek-chopade-4466)
+
+**📎 [GitHub]**
+(https://github.com/chopadevivek07)
+
+**💼 [LinkedIn]**
+(https://www.linkedin.com/in/vivek-chopade-4466)
 
 ---
 
